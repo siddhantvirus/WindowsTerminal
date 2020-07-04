@@ -1,5 +1,5 @@
 # WindowsTerminal
-My personal profile settings is use for Windows Terminal Preview
+My personal profile settings I use with Windows Terminal Preview
 
 
 I've added the following shortcuts currently supported by Windows Terminal Preview , which make using a command line much easier.
